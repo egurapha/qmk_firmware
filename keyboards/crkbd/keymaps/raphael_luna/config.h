@@ -25,7 +25,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define TAPPING_TERM 135
 #define TAPPING_TOGGLE 2
 #define SPLIT_WPM_ENABLE
+#define DEBOUNCE 10
+#define MASTER_LEFT
 
+#undef ENCODER_ENABLE
 #undef RGBLIGHT_ENABLE
 #undef RGB_MATRIX_ENABLE
 
